@@ -2,13 +2,12 @@
 Exercism.io java track solutions
 
 ## Two-fer [solution](../master/two-fer)
-## Reverse String
-
+## Reverse String [solution](../master/reverse-string)
 ## resistor-color [solution](../master/resistor-color)
 ## Darts [solution](../master/darts)
 ## Armstrong Number
-## Rna Transcription
-## DnDCharacter
+## Rna Transcription [solution](../master/rna-transcription)
+## DnDCharacter [solution](../master/dnd-character)
 ## Pangram
 ## Hamming
 ## Gigaseconds
