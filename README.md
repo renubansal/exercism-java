@@ -5,4 +5,5 @@ Exercism.io java track solutions
 ## Acronyms [solution](../master/acronym)
 ## Darts
 ## secret-handshake
+## resistor-color
 
