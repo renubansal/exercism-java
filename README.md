@@ -22,7 +22,7 @@ Exercism.io java track solutions
 #### Proverb [solution](../master/proverb)
 #### ISBN Verifier [solution](../master/isbn-verifier)
 #### Sum of Multiples [solution](../master/sum-of-multiples)
-#### Luhn [solution](../master/luhn-predictor)
+#### Luhn [solution](../master/luhn)
 #### Matrix [solution](../master/matrix)
 .
 ## Twelve Days [solution](../master/twelve-days)              TWU Specific
