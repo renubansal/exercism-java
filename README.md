@@ -6,7 +6,7 @@ Exercism.io java track solutions
 ### resistor-color [solution](../master/resistor-color)
 ### Darts [solution](../master/darts)
 ### Armstrong Number  [solution](../master/armstrong-numbers)
-### Rna Transcription [solution](../master/rna-transcription)
+### Rna Transcription [solution](../master/rna-transcription)       TWU Specific
 ### DnDCharacter [solution](../master/dnd-character)
 ### Pangram  [solution](../master/pangram)
 ### Hamming [Solution](../master/hamming)
@@ -21,5 +21,5 @@ Exercism.io java track solutions
 .
 .
 .
-## Twelve Days [solution](../master/twelve-days)
+## Twelve Days [solution](../master/twelve-days)              TWU Specific
  
