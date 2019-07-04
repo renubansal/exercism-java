@@ -6,4 +6,5 @@ Exercism.io java track solutions
 ## Darts [solution](../master/darts)
 ## secret-handshake [solution](../master/secret-handshake)
 ## resistor-color [solution](../master/resistor-color)
-
+## Twelve Days [solution](../master/twelve-days)
+## DnDCharacter 
