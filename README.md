@@ -9,9 +9,9 @@ Exercism.io java track solutions
 ## Rna Transcription [solution](../master/rna-transcription)
 ## DnDCharacter [solution](../master/dnd-character)
 ## Pangram  [solution](../master/pangram)
-## Hamming
-## Gigaseconds
-## SpaceAge
+## Hamming [Solution](../master/hamming)
+## Gigaseconds [Solution](../master/gigasecond)
+## SpaceAge [Solution](../master/space-age)
 ## Acronyms [solution](../master/acronym)
 ## Scrabble Score
 ## Raindrops
