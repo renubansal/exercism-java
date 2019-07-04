@@ -19,7 +19,9 @@ Exercism.io java track solutions
 ### Secret Handshake [solution](../master/secret-handshake)
 ### Perfect Number  [solution](../master/perfect-numbers)
 .
-.
+#### Proverb [solution](../master/proverb)
+#### ISBN Verifier [solution](../master/isbn-verifier)
+#### Sum of Multiples [solution](../master/sum-of-multiples)
 .
 ## Twelve Days [solution](../master/twelve-days)              TWU Specific
  
