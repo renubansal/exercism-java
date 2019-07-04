@@ -1,9 +1,9 @@
 # exercism-java
 Exercism.io java track solutions
 
-## Two-fer [solution](../master/acronym)
+## Two-fer [solution](../master/two-fer)
 ## Acronyms [solution](../master/acronym)
-## Darts
-## secret-handshake
-## resistor-color
+## Darts [solution](../master/darts)
+## secret-handshake [solution](../master/secret-handshake)
+## resistor-color [solution](../master/resistor-color)
 
