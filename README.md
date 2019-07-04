@@ -13,7 +13,7 @@ Exercism.io java track solutions
 ## Gigaseconds [Solution](../master/gigasecond)
 ## SpaceAge [Solution](../master/space-age)
 ## Acronyms [solution](../master/acronym)
-## Scrabble Score
+## Scrabble Score [solution](../master/scrabble-score)
 ## Raindrops
 ## Difference of Squares
 ## Secret Handshake [solution](../master/secret-handshake)
