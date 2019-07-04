@@ -5,10 +5,10 @@ Exercism.io java track solutions
 ## Reverse String [solution](../master/reverse-string)
 ## resistor-color [solution](../master/resistor-color)
 ## Darts [solution](../master/darts)
-## Armstrong Number
+## Armstrong Number  [solution](../master/armstrong-numbers)
 ## Rna Transcription [solution](../master/rna-transcription)
 ## DnDCharacter [solution](../master/dnd-character)
-## Pangram
+## Pangram  [solution](../master/pangram)
 ## Hamming
 ## Gigaseconds
 ## SpaceAge
