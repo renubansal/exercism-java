@@ -14,10 +14,10 @@ Exercism.io java track solutions
 ## SpaceAge [Solution](../master/space-age)
 ## Acronyms [solution](../master/acronym)
 ## Scrabble Score [solution](../master/scrabble-score)
-## Raindrops
-## Difference of Squares
+## Raindrops  [solution](../master/raindrops)
+## Difference of Squares  [solution](../master/difference-of-squares)
 ## Secret Handshake [solution](../master/secret-handshake)
-## Perfect Number
+## Perfect Number  [solution](../master/perfect-numbers)
 .
 .
 .
