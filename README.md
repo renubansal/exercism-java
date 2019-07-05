@@ -25,7 +25,7 @@ Exercism.io java track solutions
 ##### Luhn [solution](../master/luhn)
 ##### Matrix [solution](../master/matrix)
 ##### Triangle [solution] (../master/triangle)
-Twelve Days [solution](../master/twelve-days)         TWU Specific
-CollatzCalculator [solution](../master/collatz-conjecture)
-Nth Prime [solution](../master/nth-prime)
-Saddle Point [solution](../master/saddle-points)
+##### Twelve Days [solution](../master/twelve-days)         TWU Specific
+##### CollatzCalculator [solution](../master/collatz-conjecture)
+##### Nth Prime [solution](../master/nth-prime)
+##### Saddle Point [solution](../master/saddle-points)
