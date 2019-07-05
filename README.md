@@ -24,6 +24,8 @@ Exercism.io java track solutions
 #### Sum of Multiples [solution](../master/sum-of-multiples)
 #### Luhn [solution](../master/luhn)
 #### Matrix [solution](../master/matrix)
-.
-## Twelve Days [solution](../master/twelve-days)              TWU Specific
- 
+
+### Twelve Days [solution](../master/twelve-days)              TWU Specific
+#### CollatzCalculator [solution](../master/collatz-calculator)
+#### Nth Prime [solution](../master/nthprime)
+#### Saddle Point [solution](../master/saddle-points)
