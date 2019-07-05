@@ -26,6 +26,6 @@ Exercism.io java track solutions
 #### Matrix [solution](../master/matrix)
 
 ### Twelve Days [solution](../master/twelve-days)              TWU Specific
-#### CollatzCalculator [solution](../master/collatz-calculator)
-#### Nth Prime [solution](../master/nthprime)
+#### CollatzCalculator [solution](../master/collatz-conjucter)
+#### Nth Prime [solution](../master/nth-prime)
 #### Saddle Point [solution](../master/saddle-points)
