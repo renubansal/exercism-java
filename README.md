@@ -29,3 +29,4 @@ Exercism.io java track solutions
 ##### CollatzCalculator [solution](../master/collatz-conjecture)
 ##### Nth Prime [solution](../master/nth-prime)
 ##### Saddle Point [solution](../master/saddle-points)
+##### Diamond [solution](../master/diamond)
